@@ -1,24 +1,24 @@
-Raesfeld
-Flughafen
-Berlin
-Bratwurst
-Hauptstrasse
-Brot
-Klimaanlage
-Rammstein
-Porsche
-BMW
-Biergarten
-Ratskeller
-Dirndel
-Lederhose
-Schloss
-wettbewerbsfaehig
-Mehlhase
-Gebaeck
-Baeckerei
-Hund
-Doener
-Apfelkuchen
-Schloss
-Eltz
+Raesfeld is a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany.
+Flughafen is a Airport.
+Berlin is a city.
+Bratwurst is a kind of sasuage.
+Hauptstrasse is a Main Road.
+Brot is a loaf (of bread).
+Klimaanlage is air-conditioning.
+Rammstein is a band.
+Porsche is a car.
+BMW is Bavarian Motor Works.
+Biergarten is beer garden.
+Ratskeller is a "American food chain."
+Dirndel is a kind of feminine dress.
+Lederhose leather pants.
+Schloss is lock.
+wettbewerbsfaehig is competitive.
+Mehlhase is a last name.
+Gebaeck is a pastry.
+Baeckerei bakery.
+Hund is a dog.
+Doener is kabob.
+Apfelkuchen apple cake.
+Schloss is a château or palace.
+Eltz is a specific castle.
